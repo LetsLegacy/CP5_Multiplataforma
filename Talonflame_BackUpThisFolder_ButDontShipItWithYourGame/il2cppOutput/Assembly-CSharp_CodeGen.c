@@ -1,0 +1,96 @@
+﻿#include "pch-c.h"
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void ARObjectRotation_Update_m123511B4F5478F1A774998E94BA8AE8A9AA9DEB0 (void);
+extern void ARObjectRotation_StartRotation_mEE73BC278CA9B375CBA9414838AA9EC2ED39EEAD (void);
+extern void ARObjectRotation_StopRotation_m760932B7DDA43C56CED406E37C3FBAAD16A2F8D4 (void);
+extern void ARObjectRotation__ctor_m5F9A83E7C4DA995CA89ACC3BB64CF376702A055F (void);
+extern void AnimButtonController_Start_m1EFE637546C45D5629850C2D45FB9F5C8D3091FC (void);
+extern void AnimButtonController_PlayFlight_mB616A9752093F58550EFDAB6B86A5226FF268166 (void);
+extern void AnimButtonController_FlightAnimation_mA71C033480ACDFDFB04EFC761C70E7AFE07655EB (void);
+extern void AnimButtonController__ctor_m58799E7827A1CB2A338F69568FA25E225AD85834 (void);
+extern void U3CFlightAnimationU3Ed__7__ctor_m68B26EBB165FA443DE6182320CCA0BE553DF7BD6 (void);
+extern void U3CFlightAnimationU3Ed__7_System_IDisposable_Dispose_mDAA0051C2F4D17360513F7EF6F9AB52D3BDC74D2 (void);
+extern void U3CFlightAnimationU3Ed__7_MoveNext_m63502F65A21DA2152D4A6F712C6D66FDEB85A7A0 (void);
+extern void U3CFlightAnimationU3Ed__7_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mF798329E48202E72CFD528DEF975278D0A97E096 (void);
+extern void U3CFlightAnimationU3Ed__7_System_Collections_IEnumerator_Reset_mE64752D77FB5C04BF3CCC5709847A1E6467EBCF7 (void);
+extern void U3CFlightAnimationU3Ed__7_System_Collections_IEnumerator_get_Current_m0E4B8E8DF49FA7416CD52DD1115DD12FD5B82396 (void);
+extern void Readme__ctor_m69C325C4C171DCB0312B646A9034AA91EA8C39C6 (void);
+extern void Section__ctor_m5F732533E4DFC0167D965E5F5DB332E46055399B (void);
+extern void VuforiaLicense_GetLicenseKey_m796D51E5EF1C53F3D62BA4EA8806AC1FB1A5E3C4 (void);
+extern void VuforiaLicense__ctor_m094B92B3323DFFD79ADB696474D5D158C95E291B (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[20] = 
+{
+	ARObjectRotation_Update_m123511B4F5478F1A774998E94BA8AE8A9AA9DEB0,
+	ARObjectRotation_StartRotation_mEE73BC278CA9B375CBA9414838AA9EC2ED39EEAD,
+	ARObjectRotation_StopRotation_m760932B7DDA43C56CED406E37C3FBAAD16A2F8D4,
+	ARObjectRotation__ctor_m5F9A83E7C4DA995CA89ACC3BB64CF376702A055F,
+	AnimButtonController_Start_m1EFE637546C45D5629850C2D45FB9F5C8D3091FC,
+	AnimButtonController_PlayFlight_mB616A9752093F58550EFDAB6B86A5226FF268166,
+	AnimButtonController_FlightAnimation_mA71C033480ACDFDFB04EFC761C70E7AFE07655EB,
+	AnimButtonController__ctor_m58799E7827A1CB2A338F69568FA25E225AD85834,
+	U3CFlightAnimationU3Ed__7__ctor_m68B26EBB165FA443DE6182320CCA0BE553DF7BD6,
+	U3CFlightAnimationU3Ed__7_System_IDisposable_Dispose_mDAA0051C2F4D17360513F7EF6F9AB52D3BDC74D2,
+	U3CFlightAnimationU3Ed__7_MoveNext_m63502F65A21DA2152D4A6F712C6D66FDEB85A7A0,
+	U3CFlightAnimationU3Ed__7_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mF798329E48202E72CFD528DEF975278D0A97E096,
+	U3CFlightAnimationU3Ed__7_System_Collections_IEnumerator_Reset_mE64752D77FB5C04BF3CCC5709847A1E6467EBCF7,
+	U3CFlightAnimationU3Ed__7_System_Collections_IEnumerator_get_Current_m0E4B8E8DF49FA7416CD52DD1115DD12FD5B82396,
+	Readme__ctor_m69C325C4C171DCB0312B646A9034AA91EA8C39C6,
+	Section__ctor_m5F732533E4DFC0167D965E5F5DB332E46055399B,
+	VuforiaLicense_GetLicenseKey_m796D51E5EF1C53F3D62BA4EA8806AC1FB1A5E3C4,
+	VuforiaLicense__ctor_m094B92B3323DFFD79ADB696474D5D158C95E291B,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+static const int32_t s_InvokerIndices[20] = 
+{
+	11963,
+	11963,
+	11963,
+	11963,
+	11963,
+	11963,
+	11470,
+	11963,
+	9005,
+	11963,
+	11499,
+	11470,
+	11963,
+	11470,
+	11963,
+	11963,
+	17979,
+	11963,
+	18193,
+	11963,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	20,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
